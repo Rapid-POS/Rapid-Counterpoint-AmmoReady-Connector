@@ -1,9 +1,10 @@
 # Rapid POS AmmoReady Integration Release Notes
 
-*Release Date: December 6th, 2024*
+*Release Date: December 6, 2024*
+
 ---
 
-### What's New
+## What's New
 
-#### AmmoReady
+### AmmoReady
 - Created new functionality to easily create AmmoReady item records based on Counterpoint items.
