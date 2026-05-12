@@ -1,6 +1,7 @@
 # Rapid POS AmmoReady Integration Release Notes
 
-## December 6th, 2024
+_Release Date: December 6th, 2024_
+---
 
 ### What's New
 
