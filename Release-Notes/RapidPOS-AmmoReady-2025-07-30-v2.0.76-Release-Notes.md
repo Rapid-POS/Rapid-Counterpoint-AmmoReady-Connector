@@ -1,4 +1,4 @@
-# Rapid POS AmmoReady Integration v2.0.765 Release Notes  
+# Rapid POS AmmoReady Integration v2.0.76 Release Notes  
 
 *Release Date: July 30, 2025*
 
